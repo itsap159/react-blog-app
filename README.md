@@ -63,7 +63,7 @@ npm start
 ```
 
 ### Step 6: Set Up the Frontend
-Navigate back to the main project directory and install the frontend dependencies:
+Open a new terminal and navigate back to the main project directory and install the frontend dependencies:
 ```bash
 cd ..
 npm install
