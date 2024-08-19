@@ -1,0 +1,39 @@
+.blog-textarea {
+    width: 100%;
+    max-width: 700px;
+    /* Adjust the width as needed */
+    height: 300px;
+    /* Make it taller for more space */
+    padding: 15px;
+    margin-bottom: 10px;
+    border: 2px solid #007BFF;
+    /* Blue border */
+    border-radius: 8px;
+    /* Rounded corners */
+    font-size: 18px;
+    /* Larger text for better readability */
+    resize: none;
+    /* Disable resizing */
+    background-color: #ffffff;
+    /* White background */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    /* Subtle shadow */
+    transition: border-color 0.3s, box-shadow 0.3s;
+    /* Smooth transition for hover effects */
+    font-family: Arial, sans-serif;
+    /* Clean font for better readability */
+}
+
+.blog-textarea:focus {
+    border-color: #0056b3;
+    /* Darker blue on focus */
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+    /* Darker shadow on focus */
+    outline: none;
+    /* Remove default focus outline */
+}
+
+.placeholder-style {
+    color: #a0a0a0;
+    /* Lighter color for placeholder text */
+}
