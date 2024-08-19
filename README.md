@@ -35,7 +35,7 @@ npm install -g nodemon
 
 First, clone this repository to your local machine using Git:
 ```bash
-git clone https://github.com/itsap159/blog-app-MERN.git
+git clone https://github.com/itsap159/react-blog-app.git
 ```
 
 ### Step 3: Change into the project directory:
