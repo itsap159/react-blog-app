@@ -40,7 +40,7 @@ git clone https://github.com/itsap159/react-blog-app.git
 
 ### Step 3: Change into the project directory:
 ```bash
-cd react_blog_app
+cd react-blog-app
 ```
 
 ### Step 4: Set Up the Backend
@@ -54,7 +54,7 @@ npm install
 
 ### Step 5: Start the Backend Server
 
-First add .env file which consists the openAI API key and the port number(if wanted). The default port is 5000.
+First add .env file which consists the openAI API key and the port number(if wanted). The default port is 5000. Refer to the the \backend\.env.example for reference.
 
 Start the backend server on port 5000(or .env PORT):
 
@@ -71,7 +71,7 @@ npm install
 
 #### Step 7: Start the Frontend
 
-Now create a .env file in the root directory and add the backend port to this file. You can refer the .env.example file for reference.
+Now create a .env file in the root directory and add the backend port to this file(if a PORT number has been added to the \backend\.env file or not needed). You can refer the .env.example file for reference.
 
 Start the frontend server on port 3000(default)(may be different if some other port is used):
 
