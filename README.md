@@ -40,7 +40,7 @@ git clone https://github.com/itsap159/react-blog-app.git
 
 ### Step 3: Change into the project directory:
 ```bash
-cd 'react-blog-app'
+cd react-blog-app
 ```
 
 ### Step 4: Set Up the Backend
